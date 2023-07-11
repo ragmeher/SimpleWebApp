@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currently No offers</h1>   
+         <h1>Flipkart offer will be end in 15th July 2023</h1>   
 	 
 
     </section>    
